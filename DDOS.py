@@ -30,7 +30,7 @@ def doss():
     '''
     print '''
     +---------------------------------+
-    | [+] Black HAT islamic      [+]  |
+    | [+] www.programmer-tech.com [+] |
     | [+]      Ahmed kaissar     [+]  |
     | [+]      Database_HK       [+]  |
     | [+]      LANA X            [+]  |
